@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "TweetDetailViewController.(onFavorite(UIButton) -&gt; ()).(closure #2):TweetDetailViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "NewTweetViewController.textViewDidBeginEditing(UITextView) -&gt; ():NewTweetViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "textView.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MyTwitterClient.(favorite(id : String, isFavorited : Bool, success : (Tweet) -&gt; (), failure : (Error) -&gt; ()) -&gt; ()).(closure #2):MyTwitterClient.swift">
+      </ContextState>
+      <ContextState
+         contextName = "NewTweetViewController.viewDidLoad() -&gt; ():NewTweetViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Tweet.init(dictionary : NSDictionary) -&gt; Tweet:Tweet.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "print(dictionary)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
